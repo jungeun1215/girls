@@ -3,7 +3,7 @@
 __pycache__
 myvenv
 note
-.zip
+*.zip
 db.sqlite3
 /static
 .DS_Store
